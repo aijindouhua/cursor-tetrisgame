@@ -11,14 +11,24 @@
 - 🎯 得分系统
 - 👀 预览下一个方块
 
+## 🌐 在线访问
+
+游戏已部署到 GitHub Pages，可以直接在线游玩：
+
+**👉 [点击这里在线游玩](https://aijindouhua.github.io/cursor-tetrisgame/)**
+
 ## 如何运行
 
-### 方法一：直接在浏览器中打开
+### 方法一：在线访问（推荐）
 
-1. 双击 `index.html` 文件
+访问 GitHub Pages：https://aijindouhua.github.io/cursor-tetrisgame/
+
+### 方法二：直接在浏览器中打开
+
+1. 下载项目后，双击 `index.html` 文件
 2. 游戏会在默认浏览器中打开
 
-### 方法二：使用本地服务器（推荐）
+### 方法三：使用本地服务器
 
 在终端中运行以下命令：
 
